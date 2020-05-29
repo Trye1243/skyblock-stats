@@ -1,3 +1,4 @@
+/ree
 const fs = require('fs-extra');
 const { randomBytes } = require('crypto');
 
