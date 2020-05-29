@@ -4,7 +4,6 @@ const { randomBytes } = require('crypto');
 
 const credentialsDefault = {
     hypixel_api_key: "",
-    recaptcha_site_key: "",
     recaptcha_secret_key: ""
 };
 
